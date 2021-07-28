@@ -1,0 +1,1 @@
+'_data_' | Out-File -FilePath 'C:\users\user\Desktop\test2.txt'
