@@ -1,0 +1,1 @@
+Get-Content -Path 'C:\users\user\Desktop\test.txt'

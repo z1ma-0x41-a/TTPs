@@ -1,0 +1,1 @@
+Remove-ItemProperty -Path 'HKCU:\Microsoft\Test' -Name 'Test Param'

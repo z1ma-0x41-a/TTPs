@@ -1,0 +1,1 @@
+Get-Item 'HKCU:\Microsoft\Test'
