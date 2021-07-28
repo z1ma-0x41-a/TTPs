@@ -1,0 +1,1 @@
+Copy-Item -Source '\\server\file.txt' -Destination 'C:\Users\user\output4.txt'
